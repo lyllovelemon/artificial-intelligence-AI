@@ -1,6 +1,6 @@
 # 人工智能学习
 ## 目录
-1. 机器学习基础
+1. [机器学习基础](https://github.com/lyllovelemon/artificial-intelligence-AI/blob/master/ep1.md)
 2. 分类
 3. 图像识别
 4. 语音识别
